@@ -1,0 +1,20 @@
+Front End 
+
+
+
+HTML:
+https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
+
+CSS:
+https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe
+
+JS:
+https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
+
+React:
+https://www.youtube.com/watch?v=LgB3j2y1b-4&list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW
+
+
+
+Front End - Article:
+https://medium.com/@mukesh.ram/exploring-the-role-of-html-css-and-javascript-in-frontend-development-9f3b9123302b
